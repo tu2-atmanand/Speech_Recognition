@@ -23,7 +23,7 @@ This is the winner of this test. This is working awesome thnan option 2, and als
 3. Easier to understand than option 2.
 4. Can be used for other languages also.
 
-The original Vosk project is [[HERE]].
+The original Vosk project is [[HERE]](https://github.com/alphacep/vosk-api).
 
 
 
