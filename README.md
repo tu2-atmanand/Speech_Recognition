@@ -3,8 +3,6 @@ This project is an analysis test to find a better Speech Recognition Engine to i
 
 My Analysis is in the [[Analysis]](https://github.com/tu2-atmanand/Speech_Recognition/blob/main/Analysis.md) file.
 
-To check the timeline or TODO for this project check [[MyReadme]].
-
 > The Winner of this Analysis test is **Vosk**.
 
 The original Vosk project is [[HERE]](https://github.com/alphacep/vosk-api). You can use Vosk for other languages such as C++, Android, etc.
