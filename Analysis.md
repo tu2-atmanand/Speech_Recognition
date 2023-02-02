@@ -1,6 +1,6 @@
 # Analysis
 ### First Option : Google Speech Recognizer.
-This is the simplest method to do, just install speech_recognition module through pip and start using it the example is [[Archived/google_speech_recognition.py|Here]].
+This is the simplest method to do, just install speech_recognition module through pip and start using it the example is [[Here]](https://github.com/tu2-atmanand/Speech_Recognition/blob/main/Archived/google_speech_recognition.py).
 The problems with this is:
 1. Only 50 requests can be sent per day.
 2. works very slow if slow internet connection.
@@ -12,6 +12,8 @@ This is best i found after above option. Overcomes the problem of limitation of 
 1. This is offline
 2. Not able to detect as good as option 1 and option 2
 3. Also to train your own model or use for development little difficult to understand.
+
+To test it the sampel code is [[Here]](https://github.com/tu2-atmanand/Speech_Recognition/blob/main/Archived/pocketSphinxDemo.py).
 
 
 ## Third Option : Vosk-api
